@@ -1,4 +1,4 @@
-# Olá, sou Lucio Portela <img src="https://komarev.com/ghpvc/?username=luciocarvalho10&color=green" alt="luciocarvalho10" /> 
+# Hi, i'm Lucio Portela <img src="https://komarev.com/ghpvc/?username=luciocarvalho10&color=green" alt="luciocarvalho10" /> 
 
 😎 From RJ currently in Manaus and from Brazil to the World 🌎
 
