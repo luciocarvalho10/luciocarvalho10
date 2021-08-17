@@ -37,7 +37,7 @@
   <a href="https://wa.me/5592988265961?text=Vim%20do%20Github" target="_blank">
     <img align=center width=40 height=40 src="https://image.flaticon.com/icons/png/512/134/134937.png" />
   </a>
-  <a href=mailto:"luciocarvalho10@hotmail.com.br" target="_blank">
+  <a href="mailto:luciocarvalho10@hotmail.com.br? Subject=Vim%20do%20Github" target="_blank">
     <img align=center width=40 height=40 src="https://image.flaticon.com/icons/png/512/732/732223.png" />
   </a>
 </div>
