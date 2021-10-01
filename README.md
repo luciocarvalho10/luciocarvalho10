@@ -13,7 +13,7 @@
   <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=luciocarvalho10&theme=chartreuse-dark&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/luciocarvalho10">
-  <img align="center" alt="github most used languages" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciocarvalho10&theme=chartreuse-dark&card_width=450" />
+  <img align="center" alt="github most used languages" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciocarvalho10&theme=chartreuse-dark&card_width=350" />
 </a>
 
 # SKILLS
