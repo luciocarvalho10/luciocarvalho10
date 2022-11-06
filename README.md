@@ -6,8 +6,6 @@
 
 🔍 Curious and lover of novelties 💡
 
-📖 Currently learning React <img align=center width=20 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
 # My History
 <a href="https://github.com/luciocarvalho10">
   <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=luciocarvalho10&theme=chartreuse-dark&show_icons=true&count_private=true" />
@@ -32,12 +30,12 @@
     <img align=center width=40 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://instagram.com/luciocarvalho10" target="_blank">
-    <img align=center width=40 height=40 src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
+    <img align=center width=40 height=40 src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
   </a>
   <a href="https://wa.me/5592988265961?text=Vim%20do%20Github" target="_blank">
-    <img align=center width=40 height=40 src="https://image.flaticon.com/icons/png/512/134/134937.png" />
+    <img align=center width=40 height=40 src="https://cdn-icons-png.flaticon.com/512/134/134937.png" />
   </a>
   <a href="mailto:luciocarvalho10@hotmail.com.br? Subject=Vim%20do%20Github" target="_blank">
-    <img align=center width=40 height=40 src="https://image.flaticon.com/icons/png/512/732/732223.png" />
+    <img align=center width=40 height=40 src="https://cdn-icons-png.flaticon.com/512/732/732223.png" />
   </a>
 </div>
